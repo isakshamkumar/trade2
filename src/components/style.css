@@ -1,0 +1,851 @@
+.landing-page-stocks {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page-stocks .div-2 {
+    background: radial-gradient(50% 50% at 50% 50%, rgb(20, 21, 24) 0%, rgb(0, 0, 0) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 4727px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  }
+  
+  .landing-page-stocks .overlap {
+    height: 677px;
+    left: 169px;
+    position: absolute;
+    top: 107px;
+    width: 1226px;
+  }
+  
+  .landing-page-stocks .grid-bg {
+    height: 635px;
+    left: 72px;
+    position: absolute;
+    top: 3px;
+    transform: rotate(179.72deg);
+    width: 1062px;
+  }
+  
+  .landing-page-stocks .backgrid {
+    height: 635px;
+    position: relative;
+  }
+  
+  .landing-page-stocks .line {
+    height: 635px;
+    left: 226px;
+    position: absolute;
+    top: 0;
+    transform: rotate(-179.72deg);
+    width: 13px;
+  }
+  
+  .landing-page-stocks .img {
+    height: 635px;
+    left: 511px;
+    position: absolute;
+    top: 0;
+    transform: rotate(-179.72deg);
+    width: 13px;
+  }
+  
+  .landing-page-stocks .line-2 {
+    height: 635px;
+    left: 830px;
+    position: absolute;
+    top: 0;
+    transform: rotate(-179.72deg);
+    width: 13px;
+  }
+  
+  .landing-page-stocks .line-3 {
+    height: 12px;
+    left: 0;
+    position: absolute;
+    top: 494px;
+    transform: rotate(-179.72deg);
+    width: 1031px;
+  }
+  
+  .landing-page-stocks .line-4 {
+    height: 12px;
+    left: 15px;
+    position: absolute;
+    top: 319px;
+    transform: rotate(-179.72deg);
+    width: 1031px;
+  }
+  
+  .landing-page-stocks .line-5 {
+    height: 12px;
+    left: 31px;
+    position: absolute;
+    top: 145px;
+    transform: rotate(-179.72deg);
+    width: 1031px;
+  }
+  
+  .landing-page-stocks .content {
+    height: 492px;
+    left: 0;
+    position: absolute;
+    top: 111px;
+    width: 595px;
+  }
+  
+  .landing-page-stocks .overlap-2 {
+    height: 492px;
+    position: relative;
+    width: 593px;
+  }
+  
+  .landing-page-stocks .trade-with-a-new-way {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 72px;
+    font-weight: 500;
+    left: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 587px;
+  }
+  
+  .landing-page-stocks .button-instance {
+    height: 81px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 353px !important;
+    width: 309px !important;
+  }
+  
+  .landing-page-stocks .design-component-instance-node {
+    left: 47px !important;
+    top: 8px !important;
+  }
+  
+  .landing-page-stocks .frame-2 {
+    background-color: #1e1e1e;
+    border-radius: 264px;
+    box-shadow: inset 0px 4px 4px #00000040;
+    height: 532px;
+    left: 684px;
+    position: absolute;
+    top: 127px;
+    width: 542px;
+  }
+  
+  .landing-page-stocks .card-instance {
+    left: 932px !important;
+    position: absolute !important;
+    top: 66px !important;
+  }
+  
+  .landing-page-stocks .card-2 {
+    left: 647px !important;
+    position: absolute !important;
+    top: 214px !important;
+    transform: rotate(-11.09deg) !important;
+  }
+  
+  .landing-page-stocks .navbar {
+    height: 85px;
+    left: 0;
+    position: absolute;
+    top: 21px;
+    width: 1512px;
+  }
+  
+  .landing-page-stocks .text-wrapper a{
+    color: #ccff00;
+    font-family: "Poppins", Helvetica;
+    font-size: 40px;
+    font-weight: 600;
+    left: 659px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    padding: 5px;
+  }
+  .landing-page-stocks .text-wrapper a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 20px;
+  }
+  
+  .landing-page-stocks .text-wrapper-2 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1247px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    padding: 5px;
+  }
+  .landing-page-stocks .text-wrapper-2 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-3 a{
+    color: #ccff00;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    padding: 5px;
+  }
+  .landing-page-stocks .text-wrapper-3 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-4 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 158px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.3s ease-in;
+  }
+  .landing-page-stocks .text-wrapper-4 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-5 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 271px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  .landing-page-stocks .text-wrapper-5 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-6 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 378px;
+    letter-spacing: 0;
+    padding: 5px;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  .landing-page-stocks .text-wrapper-6 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-7 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px;
+    left: 491px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  .landing-page-stocks .text-wrapper-7 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-8 a{
+    color: #55adff;
+    font-family: "Poppins", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    left: 1365px;
+    letter-spacing: 0;
+    padding: 5px;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  .landing-page-stocks .text-wrapper-8 a:hover{
+    color: #ffffff;
+  }
+  
+  
+  .landing-page-stocks .horizontal-nav {
+    height: 415px;
+    left: 63px;
+    position: absolute;
+    top: 156px;
+    width: 38px;
+  }
+  
+  .landing-page-stocks .text-wrapper-9 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: -36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 346px;
+    transform: rotate(-90.13deg);
+    width: auto;
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.5s ease-in-out;
+  }
+  .landing-page-stocks .text-wrapper-9 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-10 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: -45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 212px;
+    transform: rotate(-90.13deg);
+    width: auto;
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.5s ease-in-out;
+  }
+  .landing-page-stocks .text-wrapper-10 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .text-wrapper-11 a{
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    left: -61px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+    transform: rotate(-90.13deg);
+    width: auto;
+    cursor: pointer;
+    padding: 5px;
+    transition: 0.5s ease-in-out;
+  }
+  .landing-page-stocks .text-wrapper-11 a:hover{
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 10px;
+  }
+  
+  .landing-page-stocks .sponsors-instance {
+    left: -36px !important;
+    position: absolute !important;
+    top: 912px !important;
+  }
+  
+  .landing-page-stocks .switch-invest {
+    background-color: #1e1e1e;
+    border-radius: 117px;
+    height: 222px;
+    left: 376px;
+    overflow: hidden;
+    position: absolute;
+    top: 1279px;
+    width: 748px;
+  }
+  
+  .landing-page-stocks .overlap-3 {
+    border-radius: 144px;
+    height: 140px;
+    left: 36px;
+    position: absolute;
+    top: 37px;
+    width: 326px;
+  }
+  
+  /* .landing-page-stocks .rectangle-4 {
+    background-color: #ccff00;
+    border-radius: 144px;
+    box-shadow: 0px -2px 49px #ccff004f;
+    height: 140px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 326px;
+  } */
+  
+  .landing-page-stocks .text-wrapper-12 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 62px;
+    font-weight: 800;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 24px;
+    white-space: nowrap;
+    width: 272px;
+  }
+  
+  .landing-page-stocks .text-wrapper-13 {
+    color: #3e3e3e;
+    font-family: "Poppins", Helvetica;
+    font-size: 62px;
+    font-weight: 800;
+    left: 443px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 64px;
+    white-space: nowrap;
+    width: 272px;
+  }
+  
+  .landing-page-stocks .most-popular {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 62px;
+    font-weight: 800;
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1587px;
+    width: 762px;
+  }
+  
+  .landing-page-stocks .overlap-wrapper {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 87px;
+    overflow: hidden;
+    position: absolute;
+    top: 1753px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .overlap-4 {
+    height: 142px;
+    left: 62px;
+    position: relative;
+    top: 18px;
+    width: 516px;
+  }
+  
+  .landing-page-stocks .overlap-5 {
+    height: 142px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 516px;
+  }
+  
+  .landing-page-stocks .div-3 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 39px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 481px;
+  }
+  
+  .landing-page-stocks .span {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 39px;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+  
+  .landing-page-stocks .text-wrapper-14 {
+    font-size: 17px;
+  }
+  
+  .landing-page-stocks .vector {
+    height: 142px;
+    left: 328px;
+    position: absolute;
+    top: 0;
+    width: 187px;
+  }
+  
+  .landing-page-stocks .vector-2 {
+    height: 50px;
+    left: 512px;
+    position: absolute;
+    top: 92px;
+    width: 4px;
+  }
+  
+  .landing-page-stocks .text-wrapper-15 {
+    color: #ccff00;
+    font-family: "Poppins", Helvetica;
+    font-size: 39px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+    width: 133px;
+  }
+  
+  .landing-page-stocks .up-stocks {
+    background-color: #7aff9f;
+    border-radius: 23.5px/22px;
+    height: 44px;
+    left: 155px;
+    position: absolute;
+    top: 70px;
+    width: 47px;
+  }
+  
+  .landing-page-stocks .arrow {
+    height: 24px;
+    left: 12px;
+    position: absolute;
+    top: 8px;
+    width: 22px;
+  }
+  
+  .landing-page-stocks .overlap-group-wrapper {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 796px;
+    overflow: hidden;
+    position: absolute;
+    top: 1753px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .overlap-6 {
+    height: 142px;
+    left: 62px;
+    position: relative;
+    top: 18px;
+    width: 512px;
+  }
+  
+  .landing-page-stocks .overlap-7 {
+    height: 142px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 512px;
+  }
+  
+  .landing-page-stocks .vector-3 {
+    height: 142px;
+    left: 328px;
+    position: absolute;
+    top: 0;
+    width: 184px;
+  }
+  
+  .landing-page-stocks .text-wrapper-16 {
+    color: #ccff00;
+    font-family: "Poppins", Helvetica;
+    font-size: 39px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 62px;
+    width: 144px;
+  }
+  
+  .landing-page-stocks .arrow-wrapper {
+    background-color: #ff7a7a;
+    border-radius: 23.5px/22px;
+    height: 44px;
+    left: 170px;
+    position: absolute;
+    top: 70px;
+    width: 47px;
+  }
+  
+  .landing-page-stocks .arrow-2 {
+    height: 24px;
+    left: 12px;
+    position: absolute;
+    top: 9px;
+    width: 22px;
+  }
+  
+  .landing-page-stocks .div-wrapper {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 87px;
+    overflow: hidden;
+    position: absolute;
+    top: 2015px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .img-wrapper {
+    background-color: #ff7a7a;
+    border-radius: 23.5px/22px;
+    height: 44px;
+    left: 155px;
+    position: absolute;
+    top: 70px;
+    width: 47px;
+  }
+  
+  .landing-page-stocks .frame-3 {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 796px;
+    overflow: hidden;
+    position: absolute;
+    top: 2015px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .frame-4 {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 87px;
+    overflow: hidden;
+    position: absolute;
+    top: 2274px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .frame-5 {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 796px;
+    overflow: hidden;
+    position: absolute;
+    top: 2274px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .frame-6 {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 87px;
+    overflow: hidden;
+    position: absolute;
+    top: 2536px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .frame-7 {
+    background-color: #1e1e1e;
+    border-radius: 41px;
+    height: 180px;
+    left: 796px;
+    overflow: hidden;
+    position: absolute;
+    top: 2536px;
+    width: 642px;
+  }
+  
+  .landing-page-stocks .frame-8 {
+    background-color: #ccff00;
+    border-radius: 10px;
+    height: 68px;
+    left: 1064px;
+    overflow: hidden;
+    position: absolute;
+    top: 1607px;
+    width: 314px;
+  }
+  
+  .landing-page-stocks .text-wrapper-17 {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 33px;
+    font-weight: 400;
+    left: 86px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    width: 237px;
+  }
+  
+  .landing-page-stocks .dropdown {
+    height: 78px;
+    left: 80px;
+    position: absolute;
+    top: 2801px;
+    width: 1353px;
+  }
+  
+  .landing-page-stocks .world-happiness {
+    height: 468px;
+    left: 108px;
+    position: absolute;
+    top: 3101px;
+    width: 1332px;
+  }
+  
+  .landing-page-stocks .our-customers {
+    color: transparent;
+    font-family: "Poppins", Helvetica;
+    font-size: 72px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 598px;
+  }
+  
+  .landing-page-stocks .text-wrapper-18 {
+    color: #ffffff;
+  }
+  
+  .landing-page-stocks .text-wrapper-19 {
+    color: #ccff00;
+  }
+  
+  .landing-page-stocks .text-wrapper-20 {
+    color: #ccff00;
+    font-size: 32px;
+  }
+  
+  .landing-page-stocks .text-wrapper-21 {
+    color: #ffffff;
+    font-size: 32px;
+  }
+  
+  .landing-page-stocks .world-map-PNG-image {
+    height: 393px;
+    left: 630px;
+    object-fit: cover;
+    position: absolute;
+    top: 46px;
+    width: 700px;
+  }
+  
+  .landing-page-stocks .text-wrapper-22 {
+    color: #ccff00;
+    font-family: "Poppins", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3589px;
+    width: 363px;
+  }
+  
+  .landing-page-stocks .overlap-8 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 18px;
+    height: 78px;
+    left: 106px;
+    position: absolute;
+    top: 3668px;
+    width: 675px;
+  }
+  
+  .landing-page-stocks .text-wrapper-23 {
+    color: #676565;
+    font-family: "Poppins", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+    width: 277px;
+  }
+  
+  .landing-page-stocks .arrow-3 {
+    height: 15px;
+    left: 631px;
+    position: absolute;
+    top: 31px;
+    width: 19px;
+  }
