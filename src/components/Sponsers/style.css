@@ -1,0 +1,101 @@
+.sponsors {
+    height: 221px;
+    width: 1596px;
+  }
+  
+  .sponsors .overlap-group-2 {
+    position: relative;
+  }
+  
+  .sponsors .bg-overlay {
+    background-color: #6c7e25;
+    height: 138px;
+    left: 3px;
+    position: absolute;
+    width: 1591px;
+  }
+  
+  .sponsors .frame {
+    background-color: #ccff00;
+    height: 138px;
+    left: 34px;
+    position: absolute;
+    width: 1512px;
+  }
+  
+  .sponsors .binance {
+    height: 67px;
+    left: 342px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 124px;
+  }
+  
+  .sponsors .wazirx {
+    height: 44px;
+    left: 642px;
+    object-fit: cover;
+    position: absolute;
+    top: 47px;
+    width: 181px;
+  }
+  
+  .sponsors .blockchain {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 29px;
+    font-weight: 800;
+    left: 999px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+    width: 233px;
+  }
+  
+  .sponsors .kraken {
+    height: 87px;
+    left: 1300px;
+    object-fit: cover;
+    position: absolute;
+    top: 25px;
+    width: 155px;
+  }
+  
+  .sponsors .coinbase {
+    height: 29px;
+    left: 44px;
+    object-fit: cover;
+    position: absolute;
+    top: 53px;
+    width: 136px;
+  }
+  
+  .sponsors .property-1-11-default {
+    height: 221px;
+  }
+  
+  .sponsors .property-1-11-variant-2 {
+    height: 234px;
+    top: -6px;
+  }
+  
+  .sponsors .overlap-group-2.property-1-11-default .bg-overlay {
+    top: 41px;
+    transform: rotate(2.98deg);
+  }
+  
+  .sponsors .overlap-group-2.property-1-11-variant-2 .bg-overlay {
+    top: 48px;
+    transform: rotate(-3.45deg);
+  }
+  
+  .sponsors .overlap-group-2.property-1-11-default .frame {
+    top: 41px;
+  }
+  
+  .sponsors .overlap-group-2.property-1-11-variant-2 .frame {
+    top: 47px;
+  }
+  

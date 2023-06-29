@@ -1,0 +1,225 @@
+.card {
+    border-radius: 25px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 439px;
+    overflow: hidden;
+    width: 294px;
+  }
+  
+  .card .overlap-group {
+    height: 528px;
+    position: relative;
+    top: -91px;
+  }
+  
+  .card .ellipse {
+    background-color: #aa10d1;
+    border-radius: 100px/133px;
+    filter: blur(253px);
+    height: 266px;
+    position: absolute;
+    top: 262px;
+    width: 200px;
+  }
+  
+  .card .div {
+    background-color: #eba4d7;
+    border-radius: 110px/145.5px;
+    filter: blur(134px);
+    height: 291px;
+    position: absolute;
+    top: 210px;
+    width: 220px;
+  }
+  
+  .card .ellipse-2 {
+    border: 9px solid;
+    border-color: #ccff0047;
+    border-radius: 72px/69px;
+    height: 138px;
+    position: absolute;
+    top: 141px;
+    width: 144px;
+  }
+  
+  .card .ellipse-3 {
+    border: 9px solid;
+    border-color: #ccff0047;
+    border-radius: 52.5px/52px;
+    height: 104px;
+    position: absolute;
+    top: 158px;
+    width: 105px;
+  }
+  
+  .card .rectangle {
+    background-color: #060606;
+    height: 100px;
+    position: absolute;
+    top: 91px;
+    width: 294px;
+  }
+  
+  .card .visa {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 42px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 114px;
+    width: 154px;
+  }
+  
+  .card .ellipse-4 {
+    background: linear-gradient(180deg, rgb(245.44, 231.12, 231.12) 0%, rgba(12.75, 12.06, 12.06, 0) 100%);
+    border-radius: 28px/29px;
+    height: 58px;
+    position: absolute;
+    top: 115px;
+    width: 56px;
+  }
+  
+  .card .ellipse-5 {
+    background: linear-gradient(180deg, rgb(245.44, 231.12, 231.12) 0%, rgba(12.75, 12.06, 12.06, 0) 100%);
+    border-radius: 28px/29px;
+    height: 58px;
+    position: absolute;
+    top: 115px;
+    transform: rotate(51.24deg);
+    width: 56px;
+  }
+  
+  .card .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 15px;
+    height: 61px;
+    position: absolute;
+    top: 421px;
+    width: 43px;
+  }
+  
+  .card .rectangle-3 {
+    background-color: #d9d9d903;
+    height: 437px;
+    position: absolute;
+    top: 91px;
+    width: 294px;
+  }
+  
+  .card .element {
+    font-family: "Nothing Font (5x7)-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 229px;
+    transform: rotate(-90deg);
+    width: 509px;
+  }
+  
+  .card .property-1-default {
+    left: -30px;
+    width: 394px;
+  }
+  
+  .card .property-1-variant-2 {
+    left: -29px;
+    width: 331px;
+  }
+  
+  .card .overlap-group.property-1-default .ellipse {
+    left: 0;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .ellipse {
+    left: 131px;
+  }
+  
+  .card .overlap-group.property-1-default .div {
+    left: 174px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .div {
+    left: 0;
+  }
+  
+  .card .overlap-group.property-1-default .ellipse-2 {
+    left: 98px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .ellipse-2 {
+    left: 97px;
+  }
+  
+  .card .overlap-group.property-1-default .ellipse-3 {
+    left: 117px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .ellipse-3 {
+    left: 116px;
+  }
+  
+  .card .overlap-group.property-1-default .rectangle {
+    left: 30px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .rectangle {
+    left: 29px;
+  }
+  
+  .card .overlap-group.property-1-default .visa {
+    left: 53px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .visa {
+    left: 52px;
+  }
+  
+  .card .overlap-group.property-1-default .ellipse-4 {
+    left: 214px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .ellipse-4 {
+    left: 213px;
+  }
+  
+  .card .overlap-group.property-1-default .ellipse-5 {
+    left: 250px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .ellipse-5 {
+    left: 249px;
+  }
+  
+  .card .overlap-group.property-1-default .rectangle-2 {
+    left: 262px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .rectangle-2 {
+    left: 261px;
+  }
+  
+  .card .overlap-group.property-1-default .rectangle-3 {
+    box-shadow: inset 65px 40px 143px -33px #ffffff30;
+    left: 30px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .rectangle-3 {
+    box-shadow: inset -144px 40px 143px -33px #ffffff30;
+    left: 29px;
+  }
+  
+  .card .overlap-group.property-1-default .element {
+    color: #ffffff;
+    left: -176px;
+  }
+  
+  .card .overlap-group.property-1-variant-2 .element {
+    color: #000000;
+    left: -177px;
+  }
+  

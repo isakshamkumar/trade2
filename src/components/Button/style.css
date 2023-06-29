@@ -1,0 +1,34 @@
+.button {
+    background-color: #ccff00;
+    border-radius: 16px;
+    box-shadow: 0px 18px 95px #ffffff40;
+    height: 85px;
+    overflow: hidden;
+    position: relative;
+    width: 301px;
+  }
+  
+  .button .get-started {
+    color: #000000;
+    font-family: "Poppins", Helvetica;
+    font-size: 38px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 256px;
+  }
+  
+  .button .default {
+    left: 39px;
+  }
+  
+  .button .variant-3 {
+    left: 324px;
+  }
+  
+  .button .variant-2 {
+    left: 295px;
+  }
+  
